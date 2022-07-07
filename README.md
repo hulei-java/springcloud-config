@@ -1,2 +1,2 @@
 # springcloud-config
-springcloud-config study
+springcloud-config 配置文件
